@@ -1,2 +1,2 @@
 test add all
-
+test add -a

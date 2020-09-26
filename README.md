@@ -6,5 +6,5 @@ test add commit
 
 git checkout --file
 
-git add all
+git add -a
 
